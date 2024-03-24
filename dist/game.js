@@ -2329,7 +2329,7 @@ vec4 frag(vec3 pos, vec2 uv, vec4 color, sampler2D tex) {
   // code/main.js
   kaboom_default();
   loadSprite("birdy", "sprites/pink.png");
-  loadSprite("bg", "sprites/pinkbackground.png");
+  loadSprite("bg", "sprites/group.png");
   loadSprite("pipe", "sprites/pipe.png");
   loadSound("wooosh", "sounds/wooosh.mp3");
   var highScore = 0;

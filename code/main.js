@@ -5,7 +5,7 @@ kaboom();
 
 // load assets
 loadSprite("birdy", "sprites/pink.png");
-loadSprite("bg", "sprites/pinkbackground.png");
+loadSprite("bg", "sprites/group.png");
 loadSprite("pipe", "sprites/pipe.png");
 loadSound("wooosh", "sounds/wooosh.mp3");
 
